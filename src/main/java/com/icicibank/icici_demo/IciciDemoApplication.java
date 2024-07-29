@@ -17,5 +17,12 @@ public class IciciDemoApplication {
     public String hello() {
       return String.format("Hello There!!! Welcome to my website");
     }
-
+	
+	//from b1 branch
+	@GetMapping("/inbox")
+    public String inbox() {
+      return String.format("All you emails will be listed here");
+    }
+	
+	
 }
