@@ -10,8 +10,9 @@
 	</parent>
 	<groupId>com.icicibank</groupId>
 	<artifactId>icici-demo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>v1.0</version>
 	<name>icici-demo</name>
+	<packaging>jar</packaging>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
